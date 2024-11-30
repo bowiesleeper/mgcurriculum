@@ -1,4 +1,4 @@
-/* Reset básico */
+
 body {
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@ body {
     background-color: #f9f9f9;
 }
 
-/* Estilização do cabeçalho */
+
 header {
     background-color: #6ec2716e;;
     color: white;
@@ -51,7 +51,7 @@ header ul li a:hover {
     text-decoration: underline;
 }
 
-/* Estilização das seções principais */
+
 section, div {
     background-color: white;
     margin: 20px auto;
@@ -92,7 +92,7 @@ li {
     margin: 5px 0;
 }
 
-/* Rodapé */
+
 footer {
     text-align: center;
     background-color: #6ec2716e;
@@ -101,7 +101,7 @@ footer {
     margin-top: 20px;
 }
 
-/* Links */
+
 a {
     color: #4CAF50;
     text-decoration: none;
